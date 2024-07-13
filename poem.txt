@@ -1,0 +1,14 @@
+In code we trust, in Rust we find,
+A language sharp, yet kind.
+With lifetimes, threads, and safety near,
+In Rust, our code is clear.
+
+No nulls to break our steady stride,
+No segfaults lurk, no bugs to hide.
+With traits and enums, patterns blend,
+In Rust, the errors end.
+
+From borrow checkers, wisdom flows,
+A compiler's love, it shows.
+In systems built to last and grow,
+In Rust, the future's glow.
